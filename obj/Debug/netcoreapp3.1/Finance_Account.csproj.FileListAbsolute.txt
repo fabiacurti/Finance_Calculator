@@ -1,0 +1,14 @@
+C:\Users\fcurt\source\repos\Finance_Account\Finance_Account\bin\Debug\netcoreapp3.1\Finance_Account.exe
+C:\Users\fcurt\source\repos\Finance_Account\Finance_Account\bin\Debug\netcoreapp3.1\Finance_Account.deps.json
+C:\Users\fcurt\source\repos\Finance_Account\Finance_Account\bin\Debug\netcoreapp3.1\Finance_Account.runtimeconfig.json
+C:\Users\fcurt\source\repos\Finance_Account\Finance_Account\bin\Debug\netcoreapp3.1\Finance_Account.runtimeconfig.dev.json
+C:\Users\fcurt\source\repos\Finance_Account\Finance_Account\bin\Debug\netcoreapp3.1\Finance_Account.dll
+C:\Users\fcurt\source\repos\Finance_Account\Finance_Account\bin\Debug\netcoreapp3.1\Finance_Account.pdb
+C:\Users\fcurt\source\repos\Finance_Account\Finance_Account\obj\Debug\netcoreapp3.1\Finance_Account.csproj.AssemblyReference.cache
+C:\Users\fcurt\source\repos\Finance_Account\Finance_Account\obj\Debug\netcoreapp3.1\Finance_Account.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fcurt\source\repos\Finance_Account\Finance_Account\obj\Debug\netcoreapp3.1\Finance_Account.AssemblyInfoInputs.cache
+C:\Users\fcurt\source\repos\Finance_Account\Finance_Account\obj\Debug\netcoreapp3.1\Finance_Account.AssemblyInfo.cs
+C:\Users\fcurt\source\repos\Finance_Account\Finance_Account\obj\Debug\netcoreapp3.1\Finance_Account.csproj.CoreCompileInputs.cache
+C:\Users\fcurt\source\repos\Finance_Account\Finance_Account\obj\Debug\netcoreapp3.1\Finance_Account.dll
+C:\Users\fcurt\source\repos\Finance_Account\Finance_Account\obj\Debug\netcoreapp3.1\Finance_Account.pdb
+C:\Users\fcurt\source\repos\Finance_Account\Finance_Account\obj\Debug\netcoreapp3.1\Finance_Account.genruntimeconfig.cache
